@@ -2,7 +2,7 @@
 chinni git hub workshop
 ## basic linex commands
 - pwd
-- cd
+- cd path
 - ls
 - ls _a
 - mkdir foldername
